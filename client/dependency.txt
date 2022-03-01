@@ -1,0 +1,17 @@
+socket.io-client react-router-dom styled-components bootstrap react-bootstrap 
+react-icons emoji-mart react-timeago socket.io lowdb supervisor nanoid concurrently
+
+socket.io-client — клиентская часть Socket.IO
+react-router-dom — маршрутизация
+styled-components — стилизация (CSS-in-JS)
+bootstrap, react-bootstrap — стилизация
+react-icons — иконки
+emoji-mart — эмодзи
+react-timeago — форматирование даты и времени
+socket.io — серверная часть Socket.IO
+lowdb — локальная БД в формате JSON
+supervisor — сервер для разработки (альтернатива nodemon, который работает 
+некорректно с последней стабильной версией Node.js; это как-то связано с 
+неправильным запуском/остановкой дочерних процессов)
+nanoid — генерация идентификаторов (будет использоваться как на клиенте, так и на сервере)
+concurrently — одновременное выполнение двух и более команд
